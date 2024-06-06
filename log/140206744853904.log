@@ -1,0 +1,10 @@
+2024-05-14 17:18:59,958 - INFO - User: Hello
+2024-05-14 17:19:00,480 - INFO - Bot: Hi
+2024-05-14 17:19:10,714 - INFO - User: We're in the process of selecting a VAPT provider and are interested in learning more about your services. Can we schedule a call to discuss our needs?"
+2024-05-14 17:19:11,609 - INFO - Bot: Please share your full name, company email id and phone number.(Example: Name:John,Email-id:john@gmail.com,MobileNumber:9922768990)
+2024-05-14 17:19:20,355 - INFO - User: Name - karuna bhalekar Email id - karuna.bhalekar@suamsoft.net
+2024-05-14 17:19:20,372 - INFO - Bot: Please contact the HR team at ithr@sumasoft.net
+2024-05-14 17:20:42,517 - INFO - User: Do i need to contact HR team to know  about VAPT ?
+2024-05-14 17:20:42,598 - INFO - Bot: Please visit the sumasoft career page, work with us and submit your resume.
+2024-05-14 17:21:49,029 - INFO - User: I want to know on;y about VAPT process in your company ?
+2024-05-14 17:21:49,192 - INFO - Bot: Please visit the sumasoft career page, work with us and submit your resume.

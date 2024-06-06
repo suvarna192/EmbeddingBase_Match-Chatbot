@@ -1,0 +1,8 @@
+2024-05-14 15:50:12,069 - INFO - User: Hi
+2024-05-14 15:50:12,104 - INFO - Bot: Hello
+2024-05-14 15:50:23,213 - INFO - User: Can I have a brochure of your ServiceNow Managed Service 
+2024-05-14 15:50:23,351 - INFO - Bot: Please share your full name, company email id and phone number.(Example: Name:John,Email-id:john@gmail.com,MobileNumber:9922768990)
+2024-05-14 15:50:30,584 - INFO - User: Karuna Bhalekar , Email - karuna.bhalekar@sumaoft.net 
+2024-05-14 15:50:30,598 - INFO - Bot: Please contact the HR team at ithr@sumasoft.net
+2024-05-14 15:51:23,209 - INFO - User: Can you provide your brochure of ServiceNow Managed Servic now ?
+2024-05-14 15:51:23,297 - INFO - Bot: Please share your full name, company email id and phone number.(Example: Name:John,Email-id:john@gmail.com,MobileNumber:9922768990)
